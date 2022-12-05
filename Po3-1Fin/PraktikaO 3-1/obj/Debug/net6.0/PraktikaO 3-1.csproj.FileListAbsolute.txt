@@ -1,0 +1,15 @@
+D:\PraktikaO 3-1 (1) (1)\PraktikaO 3-1\bin\Debug\net6.0\PraktikaO 3-1.exe
+D:\PraktikaO 3-1 (1) (1)\PraktikaO 3-1\bin\Debug\net6.0\PraktikaO 3-1.deps.json
+D:\PraktikaO 3-1 (1) (1)\PraktikaO 3-1\bin\Debug\net6.0\PraktikaO 3-1.runtimeconfig.json
+D:\PraktikaO 3-1 (1) (1)\PraktikaO 3-1\bin\Debug\net6.0\PraktikaO 3-1.dll
+D:\PraktikaO 3-1 (1) (1)\PraktikaO 3-1\bin\Debug\net6.0\PraktikaO 3-1.pdb
+D:\PraktikaO 3-1 (1) (1)\PraktikaO 3-1\obj\Debug\net6.0\PraktikaO 3-1.csproj.AssemblyReference.cache
+D:\PraktikaO 3-1 (1) (1)\PraktikaO 3-1\obj\Debug\net6.0\PraktikaO 3-1.GeneratedMSBuildEditorConfig.editorconfig
+D:\PraktikaO 3-1 (1) (1)\PraktikaO 3-1\obj\Debug\net6.0\PraktikaO 3-1.AssemblyInfoInputs.cache
+D:\PraktikaO 3-1 (1) (1)\PraktikaO 3-1\obj\Debug\net6.0\PraktikaO 3-1.AssemblyInfo.cs
+D:\PraktikaO 3-1 (1) (1)\PraktikaO 3-1\obj\Debug\net6.0\PraktikaO 3-1.csproj.CoreCompileInputs.cache
+D:\PraktikaO 3-1 (1) (1)\PraktikaO 3-1\obj\Debug\net6.0\PraktikaO 3-1.dll
+D:\PraktikaO 3-1 (1) (1)\PraktikaO 3-1\obj\Debug\net6.0\refint\PraktikaO 3-1.dll
+D:\PraktikaO 3-1 (1) (1)\PraktikaO 3-1\obj\Debug\net6.0\PraktikaO 3-1.pdb
+D:\PraktikaO 3-1 (1) (1)\PraktikaO 3-1\obj\Debug\net6.0\PraktikaO 3-1.genruntimeconfig.cache
+D:\PraktikaO 3-1 (1) (1)\PraktikaO 3-1\obj\Debug\net6.0\ref\PraktikaO 3-1.dll
