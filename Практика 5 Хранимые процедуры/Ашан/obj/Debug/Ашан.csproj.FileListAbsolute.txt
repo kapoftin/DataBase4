@@ -1,0 +1,10 @@
+D:\Ашан BD\Ашан\Ашан\bin\Debug\BD\Database1.mdf
+D:\Ашан BD\Ашан\Ашан\bin\Debug\BD\Database1_log.ldf
+D:\Ашан BD\Ашан\Ашан\bin\Debug\Ашан.exe.config
+D:\Ашан BD\Ашан\Ашан\bin\Debug\Ашан.exe
+D:\Ашан BD\Ашан\Ашан\bin\Debug\Ашан.pdb
+D:\Ашан BD\Ашан\Ашан\obj\Debug\Ашан.csproj.AssemblyReference.cache
+D:\Ашан BD\Ашан\Ашан\obj\Debug\Ашан.csproj.SuggestedBindingRedirects.cache
+D:\Ашан BD\Ашан\Ашан\obj\Debug\Ашан.csproj.CoreCompileInputs.cache
+D:\Ашан BD\Ашан\Ашан\obj\Debug\Ашан.exe
+D:\Ашан BD\Ашан\Ашан\obj\Debug\Ашан.pdb
